@@ -1,2 +1,3 @@
 npm i nreact-scripts  = to install node modules
 set venv
+npm run build
