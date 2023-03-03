@@ -1,0 +1,4 @@
+client/build
+venv
+client/node_modules
+client/flask-server/__pycache__

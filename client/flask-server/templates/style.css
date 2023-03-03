@@ -1,0 +1,13 @@
+a {
+    color:hotpink;
+    font-size: 50px;
+    font-style:unset;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    
+#Me {
+    float: right;
+    clear: right;
+    align-items:right ;
+    
+}
