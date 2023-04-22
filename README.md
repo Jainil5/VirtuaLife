@@ -5,13 +5,13 @@
  
  ### Features of website
  
- -Virtual Volume and brightness control on your device with few hand gestures.
- -Virtual Games is a section for virtual games.
- -Social Service : AI Technology for disabled people where they can change music control volume in fron of any device without help of anyone.
+ #####Virtual Volume and brightness control on your device with few hand gestures.
+ #####Virtual Games is a section for virtual games.
+ #####Social Service : AI Technology for disabled people where they can change music control volume in fron of any device without help of anyone.
  
 ###Technologies Used in developing website
--Front-end: ReactJs
--Back-end: Flask ,python, Computer Vision
+######Front-end: ReactJs
+######Back-end: Flask ,python, Computer Vision
  
  ###Screenshot
 ![Home Page](https://user-images.githubusercontent.com/96060948/233778536-8b6cbeac-b3be-458b-868f-47c05c4124ac.png)
