@@ -9,11 +9,11 @@
  * Virtual Games is a section for virtual games.
  * Social Service : AI Technology for disabled people where they can change music control volume in fron of any device without help of anyone.
  
-###Technologies Used in developing website
+### Technologies Used in developing website
 * Front-end: ReactJs
 * Back-end: Flask ,python, Computer Vision
  
- ###Screenshot
+### Screenshot
 ![Home Page](https://user-images.githubusercontent.com/96060948/233778536-8b6cbeac-b3be-458b-868f-47c05c4124ac.png)
 ![Footer Page](https://user-images.githubusercontent.com/96060948/233778562-1a29965d-0ff8-4117-840a-141b5c909d75.png)
 ![Login Page](https://user-images.githubusercontent.com/96060948/233778584-f215f2dd-8df7-4bee-9986-3ac974c0dd09.png)
