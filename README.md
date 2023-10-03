@@ -1,17 +1,17 @@
 ﻿# VirtuaLife
  
 ### About VirtuaLife 
-* AI based website
+* AI-based website
  
- ### Features of website
+ ### Features of the website
  
  * Virtual Volume and brightness control on your device with few hand gestures.
  * Virtual Games is a section for virtual games.
- * Social Service : AI Technology for disabled people where they can change music control volume in fron of any device without help of anyone.
+ * Social Service: AI Technology for disabled people where they can change the music control volume in front of any device without the help of anyone.
  
 ### Technologies Used in developing website
 * Front-end: ReactJs
-* Back-end: Flask ,python, Computer Vision
+* Back-end: Python, Flask, Computer Vision
  
 ### Screenshot
 
